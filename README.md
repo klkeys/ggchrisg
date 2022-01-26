@@ -9,6 +9,7 @@ The source code of this package is based on `geom_image` from [ggimage](https://
 Not [John G](https://en.wikipedia.org/wiki/John_Galt).
 [Not dead](https://www.dignitymemorial.com/obituaries/washington-dc/christopher-gignoux-6027869) (yet).
 Not really a [bushbaby](https://mobile.twitter.com/popgenepi).
+Definitely not a vigilant [website maintainer](https://www.gignouxlab.org/).
 Only the coolest G ever Chris-tened.
 
 ## Why ggchrisg?
@@ -16,6 +17,9 @@ Only the coolest G ever Chris-tened.
 Because Earth without art is just "eh".
 
 ## Installation
+
+Installation of this package is not recommended.
+But if you must have it:
 
 ```r
 # install.packages("remotes")
