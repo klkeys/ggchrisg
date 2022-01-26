@@ -1,0 +1,13 @@
+Package: ggchrisg
+Title: Plotting with glee with our favorite Chris G 
+Version: 1.0
+Authors@R: 
+    person("R", "CODER",
+           role = c("aut", "cre"), email = "klkeys@g.ucla.edu")
+Description: Allows adding several poses of the world's most famous Chris G to ggplot with a geom equivalent to geom_point
+License: GPL-3
+Encoding: UTF-8
+Imports: ggplot2, png, magick, methods
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
