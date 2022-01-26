@@ -57,7 +57,7 @@ ggplot(df) +
   ylim(c(0.25, 2.5))
 ```
 
-![Example 1](../examples/Example1.png?raw=true)
+![Example 1](https://github.com/klkeys/ggchrisg/blob/main/examples/Example1.png)
 
 ### Example 2
 
@@ -66,7 +66,7 @@ ggplot(mtcars) +
   geom_chrisg(aes(mpg, wt), chrisg = "hagridhoodie", size = 5)
 ```
 
-![Example 2](../examples/Example2.png?raw=true)
+![Example 2](https://github.com/klkeys/ggchrisg/blob/main/examples/Example2.png)
 
 ### Example 3
 
@@ -75,7 +75,7 @@ ggplot(mtcars) +
   geom_chrisg(aes(mpg, wt, size = cyl), chrisg = "fistbump")
 ```
 
-![Exmaple 3](../examples/Example3.png?raw=true)
+![Exmaple 3](https://github.com/klkeys/ggchrisg/blob/main/examples/Example3.png)
 
 
 ### Example 4
@@ -119,4 +119,4 @@ ggplot(dat, aes(x = Year, y = value, group = income, color = income)) +
   transition_reveal(Year)
 ```
 
-![Example 4](../examples/Example4.gif?raw=true)
+![Example 4](https://github.com/klkeys/ggchrisg/blob/main/examples/Example4.gif)
